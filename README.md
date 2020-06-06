@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src="https://raw.githubusercontent.com/GustavoBCardoso/ecoleta-web-react/src/assets/logo.svg">
+    <img alt="Logo" title="#logo" width="300px" src="https://github.com/GustavoBCardoso/ecoleta-web-react/master/src/assets/logo.svg">
 </h3>
 <p align="center">
   <a href="https://rocketseat.com.br">
